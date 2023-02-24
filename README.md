@@ -11,12 +11,12 @@ CSDN专栏|[自动驾驶规划入门（已完结）](https://blog.csdn.net/u0134
 当你面对一个任务时，思索得到解决方案的过程则是动词的规划(<font color='blue'>planning</font>)——制定、拟定一份计划或方案的整个过程。
 
 相对于作为产出物的名词性质的规划，我们更加关注作为一种能力的规划过程，也即动词性质的规划。博客中所述的规划则默认为是动词性质的规划，而用“规划结果”表示名词性质的规划。
-![在这里插入图片描述](https://img-blog.csdnimg.cn/cade35a3a5ac40879b268536a54dec0b.png#pic_center  =480x)
+![在这里插入图片描述](https://img-blog.csdnimg.cn/cade35a3a5ac40879b268536a54dec0b.png#pic_center)
 ## 二、自主移动机器人领域中的规划
 在不同的研究领域，规划的具体内容与内涵都有区别。而我们本专栏只针对机器人领域的规划理论与方法进行介绍。
 
 在自主移动机器人领域，一个最基本的任务是：将人类的高阶任务转换成指示机器人如何移动的低阶描述。例如，自动驾驶任务就是将乘客或货物安全、省时、节能地从起点运送到目的地。运动规划(motion planning)、路径规划(path planning)与轨迹规划(trajectory planning)便是用于解决这类任务。
-![在这里插入图片描述](https://img-blog.csdnimg.cn/55ca9348774e4369bfbfae61ba9ff1b6.png#pic_center =480x)
+![在这里插入图片描述](https://img-blog.csdnimg.cn/55ca9348774e4369bfbfae61ba9ff1b6.png#pic_center)
 
 《Planning Algorithms》[^1]中有对运动规划与轨迹规划的描述，现引出如下：
 
